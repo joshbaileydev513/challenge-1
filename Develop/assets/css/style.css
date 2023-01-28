@@ -1,3 +1,5 @@
+/* ↓ Anything used in this class is applied to the whole page such as:
+box-sizing/padding/margin ↓ */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* ↓ Header Classes for styling of page title Horiseon 
+& Nav Bar ↓ */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +45,19 @@ body {
     margin-left: 25px;
 }
 
+/* ↓ Color and Text for all info within a tags ↓ */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* ↓ Color and Text for all info within p tags ↓ */
 p {
     font-size: 16px;
 }
 
+/* ↓ Picture & Styling for the Core Background Image - 
+"Group working together at a table" ↓ */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/* ↓ Styling for the content section ↓ */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* ↓ Styling for the benefits section ↓ */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +96,9 @@ p {
     background-color: #2589bd;
 }
 
+
+/* ↓ Consolidated Styling for these sections
+ b/c it stayed the same for each group of 3 ↓ */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -132,6 +145,7 @@ p {
     font-size: 36px;
 }
 
+/* ↓ Styling for the footer section ↓ */
 .footer {
     padding: 30px;
     clear: both;
