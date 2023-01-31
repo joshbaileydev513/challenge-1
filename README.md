@@ -31,12 +31,9 @@ Or you can view the live page here: https://joshbaileydev513.github.io/challenge
 To use the main functionality of this page, you can click the three sections in the top right of the nav bar to take you to those spots on the page to learn more information on that topic. Below is a picture of what the deployed webpage
 will look like. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
 ![alt text](Develop/assets/images/Horiseon.png)
 
 Additionally, you can find the live page at this link: https://joshbaileydev513.github.io/challenge-1/
-
 
 ## Credits
 
