@@ -24,7 +24,7 @@ To get this project installed you can find the core code at https://github.com/j
 
 git clone (paste your HTTPS or SSH link)
 
-Or you can view the live page here: 
+Or you can view the live page here: https://joshbaileydev513.github.io/challenge-1/
 
 ## Usage
 
@@ -35,7 +35,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png)
 
-Additionally, you can find the live page at this link:
+Additionally, you can find the live page at this link: https://joshbaileydev513.github.io/challenge-1/
 
 
 ## Credits
